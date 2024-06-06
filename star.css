@@ -1,0 +1,630 @@
+
+.main{
+    width: 100%;
+    height: 100%;
+    background: rgb(249, 249, 249);
+    margin: 0%;
+    
+  }
+  .one{
+    width: 100%;
+    height: 120px;
+    background: black;
+  }
+  .content0{
+    width: 10%;
+    height: 120px;
+    background: rgb(249, 249, 249);
+    float: left;
+  }
+  .content1{
+    width: 65%;
+      float: left;
+      height:120px;
+      background: rgb(249, 249, 249);
+    
+  }
+  .content2{
+    width: 25%;
+      float: left;
+      height: 120px;
+      background: rgb(249, 249, 249);
+    
+
+  }
+  .content1 ul{
+    list-style: none;
+    display: flex;
+    margin-left:-4%;
+  }
+  .content1 ul li{
+    padding: 5px 10px;
+    padding-top: 30px;
+   
+
+  }
+  .content1 ul li a{
+    color:rgb(53, 37, 37) ;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+   
+  
+  }
+  .content1 ul li a:hover{
+    color: brown;
+  }
+  .content2 ul{
+   list-style: none;
+   display: flex;
+   margin-left:7%;
+  
+  }
+  .content2 ul li{
+    padding: 10px 20px;
+    padding-top: 30px;
+  }
+  .content2 ul li a{
+    color: rgb(53, 37, 37);
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+  .fcontent2 li a:hover{
+    color: brown;
+  }
+  
+   
+  
+  #logo { 
+    float: inline-end;
+    
+    max-width:80px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 80px;
+    padding-left: 10px
+    
+  }
+#image1{
+  float: inline-end;
+    
+    width: 100%;
+    
+    padding-top: 0px;
+    
+}
+.three{
+  width: 100%;
+  height:100%;
+  background: rgb(249, 249, 249);
+  margin-top: 48%;
+
+}
+.three1{
+  background: rgb(249, 249, 249);
+  width: 20%;
+  height: 2%;
+  margin-top: 1%;
+}
+.three2{
+  background: rgb(249, 249, 249);
+  width: 50%;
+  height: 2%;
+  margin-top: 6%;
+}
+.three1 p{
+  font-size: 20px;
+ color: rgb(53, 37, 37);
+ font-weight: 200;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.three2 p{
+  font-size: 40px;
+ color: rgb(53, 37, 37);
+ font-weight: 200;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.box1{
+  background: rgb(249, 249, 249);
+  width:18% ;
+  height: 2%;
+  margin-left: 1190px;
+  border:2px solid;
+  border-color: black;
+  margin-top:-7% ;
+  
+}
+.box1 h3{
+  color: rgb(53, 37, 37);
+  margin-left: 2px;
+}
+.four{
+  width: 100%;
+  height: 20%;
+margin-top: 2%;
+}
+ #image2{
+  margin-top: 70px;
+  width: 45%;
+  margin-left: 2%;
+  
+
+ } 
+ #image3{
+  margin-top: 1px;
+  width: 22%;
+  margin-left: 3%;
+  margin-bottom: 18.5%;
+ } 
+ #image4{
+  margin-top: -588px;
+  width: 22%;
+  margin-left: 75%;
+  margin-bottom: 20.5%;
+ } 
+ #image5{
+  margin-top: -74.5%;
+  width: 22%;
+  margin-left: 50%;
+  margin-bottom: 2%;
+  
+  
+ } 
+ #image6{
+  margin-top: -74.5%;
+  width: 22%;
+  margin-left: 75%;
+  margin-bottom: 4%;
+ }
+  .five{
+    background-image: url(index-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 400px;
+    height: 350px;
+    width: auto;
+   
+  }
+  .five1{
+    height:2%;
+    width: 890px;
+    padding-top:1% ;
+    padding-left: 3%;
+    
+    
+    
+  } 
+  .five1 p{
+    font-size: 45px;
+    color: azure;
+   font-family: Arial, Helvetica, sans-serif;
+  }
+ .five2 {
+  height:10%;
+  width: 700px;
+  margin-top: 9%;
+  margin-left: 5%;
+
+ }
+ 
+ .five2 p{
+  font-size: 20px;
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-inline-start: 0%;
+}
+.five3 {
+  height:15%;
+  width: 100px;
+  margin-top: 2%;
+
+margin-left: 6%;
+border-radius: 30px;
+border:2px solid;
+  border-color: white;
+ }
+ .five4 {
+  height:15%;
+  width: 80px;
+  
+  margin-left: 15%;
+  margin-top:-4% ;
+  border-radius: 30px;
+  border:2px solid;
+  border-color: white;
+ }
+ .five3 h4{
+ color: azure;
+  margin-left: 22%;
+  margin-top: 15%;
+
+ } 
+ .five4 h4{
+ color: azure;
+  margin-left: 22%;
+  margin-top: 20%;
+ 
+ } 
+ .six{
+  height: 160px;
+  width: 100%;
+  background: rgb(249, 249, 249);
+  margin-top: 5%;
+ }
+ 
+.six1 h4{
+  margin-left: 5%;
+  padding-top: 0%;
+}
+.six1 p{
+  margin-left: 5%;
+  font-size: 30px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.six2{
+  margin-top: -7%;
+  
+  height:25%;
+  width: 140px;
+  margin-left:85%;
+  border:2px solid;
+  border-color: black;
+}
+.six2 p{
+  padding-left: 18%;
+  margin-top: 9%;
+}
+.slider {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  height: 250px;
+  overflow-x: hidden;
+}
+.a {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 12.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.b {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 15.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.c {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 16.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.d {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 25.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.e {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 26.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.f {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 33.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+ }
+.g {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 36.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.h {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 37.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.i {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 38.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.j {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 39.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+@keyframes example {
+  0%   {left:0px;}
+  20% {left:-350px;}
+  40% {left:-700px;}
+  60% {left:-1050px;}
+  80% {left:-1400px;}
+  100% {left:-1750px;}
+}
+
+.seven{
+width: 100%;
+height: 800px;
+background: #EDEBE9;
+margin-top: 5%;
+}
+.divider{
+  width: 100%;
+  height: 0.5px;
+  background-color: black;
+  display: inline-block;
+  
+ margin-top: 8%;
+}
+.s1{
+  width: 200px;
+  height: 180px;
+  background: #EDEBE9;
+  margin-top: 9%;
+  margin-left: 2%;
+
+}
+.s2{
+  background-color: #EDEBE9;
+  width: 200px;
+  height: 170px;
+  margin-left: 290px;
+  margin-top:-12% ;
+  float:left;
+
+}
+.s3{
+  background-color: #EDEBE9;
+  width: 200px;
+  height: 170px;
+  margin-left: 560px;
+  margin-top:-12% ;
+  float:left;
+
+}
+.s4{
+  background-color: #EDEBE9;
+  width: 320px;
+  height: 170px;
+  margin-left: 830px;
+  margin-top:-12% ;
+  float:left;
+
+}
+.s5{
+  background-color: #EDEBE9;
+  width: 200px;
+  height: 170px;
+  margin-left: 1170px;
+  margin-top:-12% ;
+  float:left;
+
+}
+.s1 h3{
+  color: black;
+  font-weight: bolder;
+
+}
+.s2 h3{
+  color: black;
+  font-weight: bolder;
+margin-top: 0%;
+}
+.s3 h3{
+  color: black;
+  font-weight: bolder;
+margin-top: 0%;
+}
+.s4 h3{
+  color: black;
+  font-weight: bolder;
+margin-top: 0%;
+}
+.s5 h3{
+  color: black;
+  font-weight: bolder;
+margin-top: 0%;
+}
+.s1 ul{
+  list-style: none;
+  margin-left: -20%;
+  margin-top: -8%;
+}
+.s1 ul li{
+  margin-top: 3%;
+}
+.s1 ul li a{
+  text-decoration: none;
+  color: black;
+}
+.s2 ul{
+  list-style: none;
+  margin-left: -20%;
+  margin-top: -8%;
+}
+.s2 ul li{
+  margin-top: 3%;
+}
+.s2 ul li a{
+  text-decoration: none;
+  color: black;
+}
+.s3 ul{
+  list-style: none;
+  margin-left: -20%;
+  margin-top: -8%;
+}
+.s3 ul li{
+  margin-top: 3%;
+}
+.s3 ul li a{
+  text-decoration: none;
+  color: black;
+}
+.s4 ul{
+  list-style: none;
+  margin-left: -12%;
+  margin-top: -4%;
+}
+.s4 ul li{
+  margin-top: 3%;
+}
+.s4 ul li a{
+  text-decoration: none;
+  color: black;
+}
+.s5 ul{
+  list-style: none;
+  margin-left: -19%;
+  margin-top: -4%;
+}
+.s5 ul li{
+  margin-top: 3%;
+}
+.s5 ul li a{
+  text-decoration: none;
+  color: black;
+}
+.s6{
+  width: 200px;
+  height: 80px;
+  background: #EDEBE9;
+  margin-top: 1%;
+  margin-left: 2%;
+
+}
+.s7{
+  width: 50px;
+  height: 300px;
+  background: #EDEBE9;
+  margin-top: -18%;
+  margin-left: 96%;
+
+}
+.divider3 {
+  width: 100%;
+  height: 0.5px;
+  background-color: black;
+  display: inline-block;
+  
+ margin-top: 11px;
+  
+   
+}
+.s8{
+  height:10%;
+  width: 65%;
+  background: #EDEBE9;
+}
+.s8 ul{
+list-style: none;
+float: left;
+}
+.s8 ul li{
+  margin-left: 0%;
+  float: left;
+  padding: 23px;
+  }
+  .s8 ul li a{
+    text-decoration: none;
+    color: black;
+    }
+    .s9{
+      width: 40%;
+      background: #EDEBE9;
+      height: 4%;
+      margin-left: 60%;
+      margin-top: -3%;
+    }
+    .s9 p{
+      padding-left: 3%;
+    }
+    .zero{
+      width: 70px;
+      height: 70px;
+      background: green;
+      margin-top:-3% ;
+      margin-left: 50%;
+      border-radius: 50%;
+      position: relative;
+      z-index: 1;
+
+    }
+    #arrow{
+padding-inline-start: 0%;
+
+    }
+    .lastz{
+      width: 200px;
+      height: 70px;
+      background: #EDEBE9;
+      
+      margin-left: 49%;
+      
+
+    }
+    
