@@ -1,0 +1,208 @@
+#logo { 
+ padding: 8px;  
+max-width:80px;
+margin-left:20% ;
+
+}
+#image1{
+    float: inline-end;
+      
+      width: 100%;
+      
+      padding-top: 0px;
+      
+  }
+  
+  
+ 
+.slider {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  height: 250px;
+  overflow-x: hidden;
+}
+.a {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 12.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.b {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 15.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.c {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 16.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.d {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 25.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.e {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 26.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.f {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 33.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+ }
+.g {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 36.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.h {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 37.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.i {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 38.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+.j {
+  min-width: 325px;
+  min-height: 250px;
+  background-image: url("asset\ 39.jpeg");
+  background-size: 325px 250px;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
+@keyframes example {
+  0%   {left:0px;}
+  20% {left:-350px;}
+  40% {left:-700px;}
+  60% {left:-1050px;}
+  80% {left:-1400px;}
+  100% {left:-1750px;}
+}
+
+.w3l-banner {
+  display: grid;
+  align-items: center;
+ 
+  background: url(index-banner.jpg) no-repeat center;
+  -ms-background-size: cover;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+  background-size:100% 100%;
+}
+
+@media (max-width: 568px) {
+  .w3l-banner {
+    background-size:500% 100%;
+  }
+
+}
+
+.rounded-pill{
+  background-color: transparent;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  color: white;
+  border-color: white;
+}
+.divider3 {
+  width: 100%;
+  height: 0.5px;
+  background-color: black;
+  display: inline-block;
+  
+ margin-top: 11px;
+  
+   
+}
+.s8{
+  height:10%;
+  width: 65%;
+  background: #EDEBE9;
+}
+.s8 ul{
+list-style: none;
+float: left;
+}
+.s8 ul li{
+  margin-left: 0%;
+  float: left;
+  padding: 23px;
+  }
+  .s8 ul li a{
+    text-decoration: none;
+    color: black;
+    }
+    .s9{
+      width: 40%;
+      background: #EDEBE9;
+      height: 4%;
+      margin-left: 60%;
+      margin-top: 3%;
+    }
+    .s9 p{
+      padding-left: 3%;
+    }
+
